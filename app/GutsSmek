@@ -1,0 +1,28 @@
+￼Syntax B:first
+  - B:last
+  - B:first-child B:last-child B:only-child B:nth-child(n)
+  - B:nth-child(odd|even) B:nth-child(Xn+Y)
+  - B:even
+  
+  Description
+  Selects the first element on the page matching the base selector B.
+  Selects the last element on the page matching the base selector B.
+  Selects all elements from B that are first children.
+  Selects all elements from B that are last children.
+  Selects all elements from B that are only children.
+  Selects all elements from B that are n-th ordinal children. Starts at 1.
+  Selects all elements from B that are even or odd ordinal children. The first child is considered odd (ordinal 1).
+  Selects all elements from B that match the formula. X denotes an ordinal multiplier, while Y denotes an offset. Y may be omitted if 0. See the following examples.
+  Selects the even elements within the set of elements defined by B.
+
+
+## Custom Selectors
+
+<table>
+<tr> </td?>
+<tr?}||\\\
+B:animated          Selects elements from the base set B that are currently under animated control via one of the jQuery animation methods.
+
+B:button                Seects elements of B that are of any button type; that is: button, input[type=submit], input[type=reset] or input[type=button].
+
+B:checkbox          Selects elements of B that are of type input[type=checkbox]

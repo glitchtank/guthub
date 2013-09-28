@@ -1,0 +1,892 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"modul",
+				"angular.module"
+			],
+			[
+				"rou",
+				"$routeProvider.when	AngularJS"
+			],
+			[
+				"rout",
+				"angular: $routeProvider"
+			],
+			[
+				"dire",
+				"directivelong	Angular.js"
+			],
+			[
+				"no_",
+				"no_bold"
+			],
+			[
+				"loc",
+				"angular: $locationProvider"
+			],
+			[
+				"d",
+				"directivelong	Angular.js"
+			],
+			[
+				"wa",
+				"angular: $watchCollection"
+			],
+			[
+				"ang",
+				"angularJS"
+			],
+			[
+				"ng",
+				"ng-app"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/polarnj/Desktop/angular/app/index.html",
+			"settings":
+			{
+				"buffer_size": 12940,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/polarnj/Desktop/angular/app/styles/app.css",
+			"settings":
+			{
+				"buffer_size": 4403,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/polarnj/Desktop/angular/app/styles/TEMPLATE.mkdn",
+			"settings":
+			{
+				"buffer_size": 704,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/polarnj/Desktop/angular/app/bower_components/bootstrap-sass/README.md",
+			"settings":
+			{
+				"buffer_size": 8218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/polarnj/Desktop/angular/sass/app.scss",
+			"settings":
+			{
+				"buffer_size": 2408,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/polarnj/Desktop/angular/sass/_normalize.scss",
+			"settings":
+			{
+				"buffer_size": 7623,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/polarnj/Desktop/angular/sass/_settings.scss",
+			"settings":
+			{
+				"buffer_size": 35575,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/polarnj/Desktop/angular/app/styles/main.css",
+			"settings":
+			{
+				"buffer_size": 4362,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 7570 files for \"lib/bootstrap\"\n\n/Users/polarnj/Desktop/angular/app/bower_components/bootstrap-sass/Rakefile:\n   18  \n   19  task BOOTSTRAP_CSS do |target|\n   20:   sh \"#{SASS_COMMAND} expanded lib/bootstrap.scss:dist/css/#{target}\"\n   21  end\n   22  \n   23  task BOOTSTRAP_MIN_CSS do |target|\n   24:   sh \"#{SASS_COMMAND} compressed lib/bootstrap.scss:dist/css/#{target}\"\n   25  end\n   26  \n   ..\n   39  desc \"rebuild regular version of bootstrap when modifications are made\"\n   40  task :watch do\n   41:   sh \"#{SASS_COMMAND} expanded --watch lib/bootstrap.scss:dist/css/#{BOOTSTRAP_CSS}\"\n   42  end\n   43  \n\n/Users/polarnj/Desktop/angular/app/bower_components/bootstrap-sass/README.md:\n   37  [sass-lang.com](http://sass-lang.com)\n   38  \n   39: Sass runs as a local GEM on your system. You can run `sass --watch lib/bootstrap.scss:dist/css/bootstrap.css`\n   40  \n   41  \n\n/Users/polarnj/Desktop/angular/app/styles/app.css:\n    1  \n    2: @import \"bootstrap-sass/lib/bootstrap\";\n    3  \n    4  /* Put your CSS here */\n\n/Users/polarnj/Desktop/angular/app/styles/app.scss:\n    2  $iconWhiteSpritePath: \"../images/glyphicons-halflings-white.png\";\n    3  \n    4: @import \"bootstrap-sass/lib/bootstrap\";\n    5  \n    6  /* Put your CSS here */\n\n6 matches across 4 files\n",
+			"settings":
+			{
+				"buffer_size": 1276,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/polarnj/Desktop/angular/app/bower_components/bootstrap-sass/composer.json",
+			"settings":
+			{
+				"buffer_size": 647,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/polarnj/Desktop/angular/app/bower_components/bootstrap-sass/customize.html",
+			"settings":
+			{
+				"buffer_size": 69977,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/polarnj/Desktop/angular/app/bower_components/bootstrap-sass/_includes/nav-components.html",
+			"settings":
+			{
+				"buffer_size": 4991,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/polarnj/Desktop/angular/app/scripts/app.js",
+			"settings":
+			{
+				"buffer_size": 283,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/polarnj/Desktop/angular/app/scripts/controllers/app.js",
+			"settings":
+			{
+				"buffer_size": 283,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/polarnj/Desktop/angular/app/scripts/controllers/main.js",
+			"settings":
+			{
+				"buffer_size": 374,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"mark",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"colo",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"js",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"Snippet: place",
+				"Snippet: nav - Placeholder"
+			],
+			[
+				"",
+				"TidyHTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Angular ngInclude (attribute)"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"liv",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"ti",
+				"TidyHTML"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 633.0
+	},
+	"console":
+	{
+		"height": 82.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/polarnj/Desktop/angular/app/styles/app.scss",
+		"/Users/polarnj/Desktop/angular/.bowerrc",
+		"/Users/polarnj/Desktop/guthub/app/GutsSmek",
+		"/Users/polarnj/Desktop/angular/app/test.html",
+		"/Users/polarnj/Desktop/angular/app/styles/main.scss",
+		"/Users/polarnj/Desktop/angular/app/styles/bootstrap.scss",
+		"/Users/polarnj/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/polarnj/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/polarnj/Desktop/angular/app/scripts/bootstrap.min.js",
+		"/Users/polarnj/Desktop/angular/app/404.html",
+		"/Users/polarnj/Desktop/Code-Format.mdown",
+		"/Users/polarnj/Library/Application Support/Sublime Text 2/Packages/AdvancedNewFile/README.md",
+		"/Users/polarnj/Library/Application Support/Sublime Text 2/Packages/RunCommand/RunCommand.sublime-settings",
+		"/Users/polarnj/Library/Application Support/Sublime Text 2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/polarnj/Desktop/angularjs-book-master/chapter4/guthub/app/index.html",
+		"/Users/polarnj/Desktop/angularjs-book-master/chapter4/guthub/app/scripts/services/services.js",
+		"/Users/polarnj/Desktop/angularjs-book-master/chapter4/guthub/app/scripts/controllers/controllers.js",
+		"/Users/polarnj/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/polarnj/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/polarnj/Library/Application Support/Sublime Text 2/Packages/AngularJS/AngularJS-completions.sublime-settings",
+		"/Users/polarnj/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/Users/polarnj/Library/Application Support/Sublime Text 2/Packages/AngularJS/AngularJS-js-completions.sublime-settings",
+		"/Users/polarnj/Library/Application Support/Sublime Text 2/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/Users/polarnj/Library/Application Support/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/Users/polarnj/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/polarnj/Desktop/angular/Gruntfile.js",
+		"/Users/polarnj/Desktop/angularjs-book-master/chapter4/guthub/web-server.js",
+		"/Users/polarnj/Desktop/angular/app/styles/jumbotron.css",
+		"/Users/polarnj/Library/Application Support/Sublime Text 2/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/Users/polarnj/Library/Application Support/Sublime Text 2/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/Users/polarnj/Desktop/angular/app/scripts/test.css",
+		"/Users/polarnj/Desktop/angular/app/scripts/app.js",
+		"/Users/polarnj/Desktop/angular/app/index.html",
+		"/Users/polarnj/Desktop/angular/.tmp/styles/main.css",
+		"/Users/polarnj/Desktop/untitled.html",
+		"/Users/polarnj/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lib/bootstrap",
+			"bootstrap",
+			"div",
+			"-->\n",
+			"dd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 13,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/polarnj/Desktop/angular/app/index.html",
+					"settings":
+					{
+						"buffer_size": 12940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								666,
+								666
+							]
+						],
+						"settings":
+						{
+							"last_modified_indicator": true,
+							"last_modified_indicator_multiline": true,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3226.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/polarnj/Desktop/angular/app/styles/app.css",
+					"settings":
+					{
+						"buffer_size": 4403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								19
+							],
+							[
+								29,
+								38
+							]
+						],
+						"settings":
+						{
+							"last_modified_indicator": true,
+							"last_modified_indicator_multiline": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/polarnj/Desktop/angular/app/styles/TEMPLATE.mkdn",
+					"settings":
+					{
+						"buffer_size": 704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"last_modified_indicator": true,
+							"last_modified_indicator_multiline": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 86.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/polarnj/Desktop/angular/app/bower_components/bootstrap-sass/README.md",
+					"settings":
+					{
+						"buffer_size": 8218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"last_modified_indicator": true,
+							"last_modified_indicator_multiline": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 13.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/polarnj/Desktop/angular/sass/app.scss",
+					"settings":
+					{
+						"buffer_size": 2408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								644,
+								644
+							]
+						],
+						"settings":
+						{
+							"last_modified_indicator": true,
+							"last_modified_indicator_multiline": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/polarnj/Desktop/angular/sass/_normalize.scss",
+					"settings":
+					{
+						"buffer_size": 7623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1885,
+								1856
+							]
+						],
+						"settings":
+						{
+							"last_modified_indicator": true,
+							"last_modified_indicator_multiline": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1995.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/polarnj/Desktop/angular/sass/_settings.scss",
+					"settings":
+					{
+						"buffer_size": 35575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"last_modified_indicator": true,
+							"last_modified_indicator_multiline": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/polarnj/Desktop/angular/app/styles/main.css",
+					"settings":
+					{
+						"buffer_size": 4362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"last_modified_indicator": true,
+							"last_modified_indicator_multiline": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 906.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"settings":
+					{
+						"buffer_size": 1276,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										203,
+										216
+									],
+									[
+										343,
+										356
+									],
+									[
+										554,
+										567
+									],
+									[
+										825,
+										838
+									],
+									[
+										975,
+										988
+									],
+									[
+										1195,
+										1208
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"last_modified_indicator": true,
+							"last_modified_indicator_multiline": true,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 187.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/polarnj/Desktop/angular/app/bower_components/bootstrap-sass/composer.json",
+					"settings":
+					{
+						"buffer_size": 647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"last_modified_indicator": true,
+							"last_modified_indicator_multiline": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/polarnj/Desktop/angular/app/bower_components/bootstrap-sass/customize.html",
+					"settings":
+					{
+						"buffer_size": 69977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"last_modified_indicator": true,
+							"last_modified_indicator_multiline": true,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1889.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/polarnj/Desktop/angular/app/bower_components/bootstrap-sass/_includes/nav-components.html",
+					"settings":
+					{
+						"buffer_size": 4991,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								4991
+							]
+						],
+						"settings":
+						{
+							"last_modified_indicator": true,
+							"last_modified_indicator_multiline": true,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2052.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/polarnj/Desktop/angular/app/scripts/app.js",
+					"settings":
+					{
+						"buffer_size": 283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"last_modified_indicator": true,
+							"last_modified_indicator_multiline": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/polarnj/Desktop/angular/app/scripts/controllers/app.js",
+					"settings":
+					{
+						"buffer_size": 283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"last_modified_indicator": true,
+							"last_modified_indicator_multiline": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/polarnj/Desktop/angular/app/scripts/controllers/main.js",
+					"settings":
+					{
+						"buffer_size": 374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"last_modified_indicator": true,
+							"last_modified_indicator_multiline": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/polarnj/Desktop/Cheat Sheet.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}
